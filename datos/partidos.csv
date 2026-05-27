@@ -1,0 +1,21 @@
+partido_id,fecha,equipo_local,equipo_visitante,goles_local,goles_visitante
+1,2024-03-01,Boca,River,2,1
+2,2024-03-01,Racing,Independiente,0,0
+3,2024-03-08,San Lorenzo,Huracán,3,1
+4,2024-03-08,River,Racing,2,0
+5,2024-03-15,Independiente,Boca,1,2
+6,2024-03-15,Huracán,San Lorenzo,0,1
+7,2024-03-22,Boca,Racing,1,1
+8,2024-03-22,River,Independiente,3,0
+9,2024-03-29,San Lorenzo,Boca,0,2
+10,2024-03-29,Huracán,River,1,2
+11,2024-04-05,Racing,San Lorenzo,2,1
+12,2024-04-05,Independiente,Huracán,1,0
+13,2024-04-12,Boca,Huracán,2,0
+14,2024-04-12,River,San Lorenzo,1,1
+15,2024-04-19,Racing,Huracán,3,2
+16,2024-04-19,Independiente,San Lorenzo,0,1
+17,2024-04-26,Boca,San Lorenzo,1,0
+18,2024-04-26,River,Racing,2,1
+19,2024-05-03,Huracán,Independiente,2,2
+20,2024-05-03,San Lorenzo,Racing,1,3
