@@ -1,0 +1,16 @@
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints de Jupyter / Google Colab
+.ipynb_checkpoints/
+
+# Archivos de datos pesados (no subir al repo)
+*.xlsx
+*.log
+
+# Variables de entorno y tokens (NUNCA subir)
+.env
+secrets.txt
+token.txt
