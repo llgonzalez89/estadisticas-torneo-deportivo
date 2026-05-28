@@ -1,4 +1,4 @@
-partido_id,fecha,equipo_local,equipo_visitante,goles_local,goles_visitante
+partido_id,fecha,local,visitante,goles_local,goles_visitante
 1,2024-03-01,Boca,River,2,1
 2,2024-03-01,Racing,Independiente,0,0
 3,2024-03-08,San Lorenzo,Huracán,3,1
